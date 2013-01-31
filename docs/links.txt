@@ -1,0 +1,7 @@
+http://blog.phusion.nl/2013/01/03/rails-sql-injection-vulnerability-hold-your-horses-here-are-the-facts/#.UQqt992r1QI
+http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-6496
+http://it.slashdot.org/story/13/01/09/1557235/ruby-on-rails-sql-injection-flaw-has-serious-real-life-consequences
+
+http://www.logansbailey.com/2010/10/06/how-to-setup-authlogic-in-rails-3/
+https://community.rapid7.com/community/metasploit/blog/2013/01/10/exploiting-ruby-on-rails-with-metasploit-cve-2013-0156
+http://www.offensive-security.com/metasploit-unleashed/Main_Page
